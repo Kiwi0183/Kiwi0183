@@ -9,28 +9,33 @@
 .header{
     display: flex;
     justify-content: space-between;
-    padding: 5%;
+    padding: 10px;
     box-shadow: 0 0 10px;
-    background-color: rgb(255, 255, 255);
+    background-color: blue;
+    align-items: center;
 }
 
-.header .img-logo{
-    width: 5%;
-    
+.header img{
+    width: 26%;
+    margin-left: 10px;
+}
+
+.header .navegacao a{
+    gap: 20%;
 }
 
 .header a{
     text-decoration: none;
-    gap: 10%;
     color: white;  
     font-size: 20px; 
+    gap: 100px;
 }
 
 .header button{
     background-color: red;
     border: none;
-    padding: 30px;
-
+    padding: 10px;
+    margin-right: 10px;
 }
 /* body */
 /* responcivo */

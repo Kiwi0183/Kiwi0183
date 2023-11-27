@@ -9,7 +9,6 @@
 .header{
     display: flex;
     justify-content: space-between;
-    align-items: center;
     padding: 5%;
     box-shadow: 0 0 10px;
     background-color: rgb(43, 43, 139);

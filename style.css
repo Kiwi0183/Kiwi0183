@@ -23,15 +23,13 @@ body{
     margin-left: 10px;
 }
 
-.header .navegacao a{
-    gap: 20%;
-}
-
 .header a{
     text-decoration: none;
     color: white;  
     font-size: 20px; 
     gap: 100px;
+    align-items: center;
+    margin-right: 10px;
 }
 
 .header button{

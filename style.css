@@ -1,0 +1,36 @@
+/* geral */
+
+*{
+    padding: 0;
+    margin: 0;
+}
+
+/* header */
+.header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10%;
+    box-shadow: 0 0 10px;
+    background-color: rgb(43, 43, 139);
+}
+
+.header .img-logo{
+    width: 10%;
+    
+}
+
+.header a{
+    text-decoration: none;
+    gap: 10%;
+    color: white;   
+}
+
+.header button{
+    background-color: red;
+    border: none;
+    padding: 30px;
+
+}
+/* body */
+/* responcivo */
